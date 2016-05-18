@@ -1,6 +1,6 @@
 {
   "name": "januscli-release",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Semantic Releases and Changelog for JanusCLI",
   "main": "es5/index.js",
   "scripts": {
